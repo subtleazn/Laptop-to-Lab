@@ -3,7 +3,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Bash](https://img.shields.io/badge/language-Bash-green.svg) ![Platform](https://img.shields.io/badge/platform-Linux%20Mint%20%7C%20Ubuntu-orange.svg)
 
-**Don't let your old hardware gather dust.** Laptop-to-Lab is a battle-tested automation suite that converts consumer laptops (specifically Lenovo, but adaptable) into optimized, headless, silent servers for Docker, Plex, Jellyfin, and the *Arr stack.
+**Don't let your old hardware gather dust.** Laptop-to-Lab is a battle-tested automation suite that converts consumer laptops (specifically Lenovo, but adaptable) into optimized, silent servers for Docker, Plex, Jellyfin, and the *Arr stack.
 
 ---
 
