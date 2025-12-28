@@ -8,8 +8,8 @@
 # --- CONFIGURATION ---
 # All the ports your stack needs
 SERVER_PORTS="22 80 443 445 137 138 139 9001 8096 9000 9443 8123 8384 8090 7878 8989 8686 8787 6767 9696 4533 5000 13378 4567"
-GIT_NAME="PinoySeoul Server"
-GIT_EMAIL="server@pinoyseoul.com"
+GIT_NAME="mygithubusername"
+GIT_EMAIL="name@gmail.com"
 
 # --- SETUP VARIABLES ---
 REAL_USER=${SUDO_USER:-$(whoami)}
